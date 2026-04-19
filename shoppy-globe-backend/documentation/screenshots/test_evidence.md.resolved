@@ -1,0 +1,19 @@
+# ShoppyGlobe Test Evidence (Screenshots)
+
+I have generated and saved the following screenshots in your `documentation/screenshots/` folder. You can use these for your project submission.
+
+### MongoDB Database Evidence
+![MongoDB Products](file:///c:/Users/surya/Downloads/React/PROJECT/shoppy-globe-backend/documentation/screenshots/mongodb_products.png)
+*This shows the `products` collection inside the `shoppyglobe` database with populated inventory.*
+
+### API Testing Evidence (Thunder Client)
+![API Login](file:///c:/Users/surya/Downloads/React/PROJECT/shoppy-globe-backend/documentation/screenshots/api_login.png)
+*Successful JWT Authentication flow.*
+
+![API Get Products](file:///c:/Users/surya/Downloads/React/PROJECT/shoppy-globe-backend/documentation/screenshots/api_get_products.png)
+*Fetching the product list from the MongoDB database.*
+
+![API Add to Cart](file:///c:/Users/surya/Downloads/React/PROJECT/shoppy-globe-backend/documentation/screenshots/api_add_to_cart.png)
+*Adding a product to the cart with a valid Bearer token.*
+
+**All files are saved at:** `c:\Users\surya\Downloads\React\PROJECT\shoppy-globe-backend\documentation\screenshots\`
